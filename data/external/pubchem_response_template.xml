@@ -1,0 +1,22 @@
+<PCT-Data>  
+  <PCT-Data_output>  
+    <PCT-OutputData>  
+      <PCT-OutputData_status>  
+        <PCT-Status-Message>  
+          <PCT-Status-Message_status>  
+            <PCT-Status value="success"/>  
+          </PCT-Status-Message_status>  
+        </PCT-Status-Message>  
+      </PCT-OutputData_status>  
+      <PCT-OutputData_output>  
+        <PCT-OutputData_output_download-url>  
+          <PCT-Download-URL>  
+            <PCT-Download-URL_url>  
+              ftp://ftp-private.ncbi.nlm.nih.gov/pubchem/.fetch/1064385222466625960.sdf.gz  
+            </PCT-Download-URL_url>  
+          </PCT-Download-URL>  
+        </PCT-OutputData_output_download-url>  
+      </PCT-OutputData_output>  
+    </PCT-OutputData>  
+  </PCT-Data_output>  
+</PCT-Data>

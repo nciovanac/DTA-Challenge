@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE PCT-Data PUBLIC "-//NCBI//NCBI PCTools/EN" "NCBI_PCTools.dtd">
+<PCT-Data>
+  <PCT-Data_input>
+    <PCT-InputData>
+      <PCT-InputData_query>
+        <PCT-Query>
+          <PCT-Query_type>
+            <PCT-QueryType>
+              <PCT-QueryType_id-exchange>
+                <PCT-QueryIDExchange>
+                  <PCT-QueryIDExchange_input>
+                    <PCT-QueryUids>
+                      <PCT-QueryUids_ids>
+                        <PCT-ID-List>
+                          <PCT-ID-List_db>pccompound</PCT-ID-List_db>
+                          <PCT-ID-List_uids>
+                            <PCT-ID-List_uids_E>7428</PCT-ID-List_uids_E>
+                            <PCT-ID-List_uids_E>65303</PCT-ID-List_uids_E>
+                            <PCT-ID-List_uids_E>96506</PCT-ID-List_uids_E>
+                          </PCT-ID-List_uids>
+                        </PCT-ID-List>
+                      </PCT-QueryUids_ids>
+                    </PCT-QueryUids>
+                  </PCT-QueryIDExchange_input>
+                  <PCT-QueryIDExchange_operation-type value="same"/>
+                  <PCT-QueryIDExchange_output-type value="smiles"/>
+                  <PCT-QueryIDExchange_output-method value="file-pair"/>
+                  <PCT-QueryIDExchange_compression value="gzip"/>
+                </PCT-QueryIDExchange>
+              </PCT-QueryType_id-exchange>
+            </PCT-QueryType>
+          </PCT-Query_type>
+        </PCT-Query>
+      </PCT-InputData_query>
+    </PCT-InputData>
+  </PCT-Data_input>
+</PCT-Data>
